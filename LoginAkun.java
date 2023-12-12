@@ -45,17 +45,7 @@ public class LoginAkun {
     }
 }
 
-                     //   System.out.println(asdasd);
-                    //    System.out.println(Code[hitung]);
-                                        // do{
-                    //     System.out.println("Rizki Olders" );
-                    //     // Random rand = new Random();
-                    //     // random = rand.nextInt(100000);
-                    //     // System.out.println(random);
-                    //     // Scanner inte = new Scanner(System.in);
-                    //     System.out.print("Masukkan Captcha : ");
-                    //     n = cin.next();
-                    // }while(!n.equalsIgnoreCase("STV123"));
+            
 
 
 
